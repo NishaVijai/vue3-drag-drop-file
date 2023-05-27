@@ -1,4 +1,10 @@
-# t
+# Vue3 - drag and drop file
+
+## Preview Link
+- https://hx2edd.csb.app/
+
+### Screenshot
+![vue3-drag-and-drop](https://github.com/NishaVijai/vue3-drag-drop-file/assets/26595961/14720961-9365-47ac-be2a-540b2e37bbb5)
 
 ## Project setup
 ```
